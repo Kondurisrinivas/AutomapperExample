@@ -17,6 +17,7 @@ namespace AutomapperExample.Migrations
                 keyValue: 1,
                 column: "OrderDate",
                 value: new DateTime(2025, 11, 2, 15, 16, 19, 555, DateTimeKind.Local).AddTicks(18));
+
         }
 
         /// <inheritdoc />
