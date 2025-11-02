@@ -1,7 +1,7 @@
 
 using AutomapperExample.Models;
 using Microsoft.EntityFrameworkCore;
-
+using AutomapperExample.Data;
 namespace AutomapperExample
 {
     public class Program
